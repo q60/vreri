@@ -1,5 +1,5 @@
 vreri |elixir|
-======
+=====
 
 **Vreri** (IPA: [vɾeɾi], stylized as *vreri*) is a random quote
 fetching console utility. Written in Elixir.
