@@ -1,4 +1,4 @@
-vreri
+vreri |elixir|
 ======
 
 **Vreri** (IPA: [vɾeɾi], stylized as *vreri*) is a random quote
@@ -36,3 +36,4 @@ Uninstalling
     sudo make uninstall
 
 .. |screenshot| image:: https://i.imgur.com/i1hTiiP.jpg
+.. |elixir| image:: https://img.shields.io/badge/-Elixir-663299?style=for-the-badge&logo=elixir
